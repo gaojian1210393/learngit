@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VLposition</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="chuli">数据加图片处理</string>
+    <string name="shuju">此处显示灯传输信息数据</string>
+     <string name="areashuju">此处显示灯坐标直径数据</string>
+      <string name="directionshuju">此处显示手机方向数据</string>
+       <string name="resultshuju">此处显示手机实际坐标</string>
+    <string name="end">退出</string>
+     <string name="clear">清空历史数据</string>
+
+</resources>
